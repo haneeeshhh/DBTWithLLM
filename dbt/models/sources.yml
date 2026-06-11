@@ -1,0 +1,11 @@
+
+version: 2
+
+sources:
+  - name: raw
+    database: FINANCEDB
+    schema: RAW
+    tables:
+      - name: customer_data
+      - name: daily_xraw
+      - name: transactions
