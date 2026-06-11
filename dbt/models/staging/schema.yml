@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: stg_customer
+    columns:
+      - name: customerid
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_securities
+    columns:
+      - name: isin
+        tests:
+          - not_null
+
+  - name: stg_transaction
+    columns:
+      - name: transactionid
+        tests:
+          - not_null
+          - unique
