@@ -1,0 +1,71 @@
+TRANSACTIONID,DATE,CUSTOMERID,CUSTOMER_NAME,SEGMENT,CUSTOMER_TYPE,RELATIONSHIP_MANAGER,AREA,ISIN,SECURITY_NAME,SECURITY_REGION,ASSET_TYPE,SUB_ASSET_TYPE,CURRENCY,PRICE_STATUS,QUANTITY,PRICE,AMOUNT,TRANSACTIONTYPE
+T000059,13-03-2026,GB002,Carina Thompson,Private,Advisory,Sagar T,Berlin,XS23819,Tesla,North American,Mutual Fund,Equity Funds,USD,VALID,33,178.32,5884.56,BUY
+T000069,13-03-2026,GB006,William Robinson,Private,Advisory,Nibu X,Rheinland-Pfalz,XS23835,Colgate,North American,Mutual Fund,Fixed Income Funds,USD,VALID,55,74.99,4124.45,BUY
+T000073,13-03-2026,GB009,Michelle Armstrong,Private,Execution Only,Jithin M,Saxony,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,66,88.51,5841.66,BUY
+T000073,13-03-2026,GB009,Michelle Armstrong,Private,Execution Only,Jithin M,Saxony,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,66,88.51,5841.66,BUY
+T000082,13-03-2026,GB015,Eleanor Scott,Private,Execution Only,Sulaiman B,Berlin,EG23830,Telecom Egypt,Africa,Mutual Fund,Fixed Income Funds,EGY,VALID,66,10.71,706.86,SELL
+T000108,13-03-2026,GB002,Carina Thompson,Private,Advisory,Sagar T,Berlin,XS23827,Meta,North American,Equity,Foreign Equity,USD,VALID,36,31.77,1143.72,BUY
+T000119,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,CH23836,Glencore International,Europe,Mutual Fund,Fixed Income Funds,EUR,VALID,31,94.71,2936.01,BUY
+T000135,13-03-2026,GB002,Carina Thompson,Private,Advisory,Sagar T,Berlin,XS23825,Amazon,North American,Mutual Fund,Equity Funds,USD,VALID,78,58.10,4531.80,SELL
+T000172,13-03-2026,GB013,Sydney Allen,Private,Execution Only,Sagar T,Saxony,XS23835,Colgate,North American,Mutual Fund,Fixed Income Funds,USD,VALID,3,74.99,224.97,BUY
+T000258,13-03-2026,GB019,Alfred Watson,Private,Execution Only,Jithin M,Rheinland-Pfalz,DE23822,Allianz,Europe,Equity,Local Equity,EUR,VALID,87,79.92,6953.04,SELL
+T000267,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,XS23827,Meta,North American,Equity,Foreign Equity,USD,VALID,71,31.77,2255.67,BUY
+T000367,13-03-2026,GB007,Valeria Perkins,Retail,Execution Only,Jithin M,Saxony,XS23823,JP Morgan,North American,Equity,Foreign Equity,USD,VALID,34,98.73,3356.82,BUY
+T000383,13-03-2026,GB018,Aiden Grant,Retail,Execution Only,Nibu X,Berlin,XS23825,Amazon,North American,Mutual Fund,Equity Funds,USD,VALID,59,58.10,3427.90,BUY
+T000400,13-03-2026,GB014,Max Kelley,Private,Advisory,Nibu X,Berlin,XS23832,IBM,North American,Bond,Medium Term,USD,VALID,35,36.12,1264.20,SELL
+T000408,13-03-2026,GB011,Reid Allen,Wealth,Execution Only,Sulaiman B,Rheinland-Pfalz,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,19,1.86,35.34,BUY
+T000450,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,AE23820,FAB,Asia,Equity,Foreign Equity,AED,VALID,1,98.02,98.02,BUY
+T000496,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,XS23819,Tesla,North American,Mutual Fund,Equity Funds,USD,VALID,72,178.32,12839.04,SELL
+T000510,13-03-2026,GB009,Michelle Armstrong,Private,Execution Only,Jithin M,Saxony,XS23823,JP Morgan,North American,Equity,Foreign Equity,USD,VALID,59,98.73,5825.07,SELL
+T000534,13-03-2026,GB016,Rebecca Allen,Private,Advisory,Jithin M,Saxony,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,68,1.86,126.48,SELL
+T000578,13-03-2026,GB007,Valeria Perkins,Retail,Execution Only,Jithin M,Saxony,XS23824,JP Morgan,North American,Mutual Fund,Equity Funds,USD,VALID,86,85.60,7361.60,SELL
+T000598,13-03-2026,GB002,Carina Thompson,Private,Advisory,Sagar T,Berlin,XS23824,JP Morgan,North American,Mutual Fund,Equity Funds,USD,VALID,85,85.60,7276.00,SELL
+T000625,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,XS23825,Amazon,North American,Mutual Fund,Equity Funds,USD,VALID,84,58.10,4880.40,BUY
+T000640,13-03-2026,GB016,Rebecca Allen,Private,Advisory,Jithin M,Saxony,XS23831,Google,North American,Equity,Foreign Equity,USD,VALID,37,26.45,978.65,SELL
+T000703,13-03-2026,GB007,Valeria Perkins,Retail,Execution Only,Jithin M,Saxony,XS23823,JP Morgan,North American,Equity,Foreign Equity,USD,VALID,58,98.73,5726.34,SELL
+T000707,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,7,1.86,13.02,BUY
+T000844,13-03-2026,GB014,Max Kelley,Private,Advisory,Nibu X,Berlin,EU23828,Allianz EU,Europe,Equity,Foreign Equity,EUR,VALID,21,17.61,369.81,SELL
+T000893,13-03-2026,GB011,Reid Allen,Wealth,Execution Only,Sulaiman B,Rheinland-Pfalz,EU23828,Allianz EU,Europe,Equity,Foreign Equity,EUR,VALID,23,17.61,405.03,SELL
+T001113,13-03-2026,GB008,Victoria Johnston,Wealth,Execution Only,Sulaiman B,Bavaria,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,6,88.51,531.06,SELL
+T001113,13-03-2026,GB008,Victoria Johnston,Wealth,Execution Only,Sulaiman B,Bavaria,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,6,88.51,531.06,SELL
+T001151,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,XS23824,JP Morgan,North American,Mutual Fund,Equity Funds,USD,VALID,47,85.60,4023.20,SELL
+T001167,13-03-2026,GB008,Victoria Johnston,Wealth,Execution Only,Sulaiman B,Bavaria,AE23820,FAB,Asia,Equity,Foreign Equity,AED,VALID,67,98.02,6567.34,BUY
+T001323,13-03-2026,GB008,Victoria Johnston,Wealth,Execution Only,Sulaiman B,Bavaria,EU23828,Allianz EU,Europe,Equity,Foreign Equity,EUR,VALID,52,17.61,915.72,BUY
+T001552,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,DE23822,Allianz,Europe,Equity,Local Equity,EUR,VALID,63,79.92,5034.96,SELL
+T001574,13-03-2026,GB019,Alfred Watson,Private,Execution Only,Jithin M,Rheinland-Pfalz,SN23833,Sea (Garena),Asia,Bond,Long Term,SNG,VALID,79,47.85,3780.15,BUY
+T001805,13-03-2026,GB018,Aiden Grant,Retail,Execution Only,Nibu X,Berlin,SN23833,Sea (Garena),Asia,Bond,Long Term,SNG,VALID,41,47.85,1961.85,SELL
+T001858,13-03-2026,GB014,Max Kelley,Private,Advisory,Nibu X,Berlin,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,28,1.86,52.08,SELL
+T001927,13-03-2026,GB008,Victoria Johnston,Wealth,Execution Only,Sulaiman B,Bavaria,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,14,1.86,26.04,BUY
+T001992,13-03-2026,GB004,Rafael Miller,Retail,Execution Only,Sulaiman B,Rheinland-Pfalz,DE23822,Allianz,Europe,Equity,Local Equity,EUR,VALID,21,79.92,1678.32,SELL
+T002068,13-03-2026,GB007,Valeria Perkins,Retail,Execution Only,Jithin M,Saxony,SN23833,Sea (Garena),Asia,Bond,Long Term,SNG,VALID,98,47.85,4689.30,SELL
+T002111,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,XS23826,Google,North American,Equity,Foreign Equity,USD,VALID,69,40.35,2784.15,BUY
+T002197,13-03-2026,GB020,Lenny Thomas,Wealth,Advisory,Jithin M,Bavaria,SN23833,Sea (Garena),Asia,Bond,Long Term,SNG,VALID,14,47.85,669.90,BUY
+T002319,13-03-2026,GB013,Sydney Allen,Private,Execution Only,Sagar T,Saxony,XS23826,Google,North American,Equity,Foreign Equity,USD,VALID,1,40.35,40.35,SELL
+T002419,13-03-2026,GB003,Stuart Carroll,Wealth,Execution Only,Sulaiman B,Saxony,XS23834,,,,,,,77,67.22,5175.94,SELL
+T002627,13-03-2026,GB011,Reid Allen,Wealth,Execution Only,Sulaiman B,Rheinland-Pfalz,XS23827,Meta,North American,Equity,Foreign Equity,USD,VALID,95,31.77,3018.15,BUY
+T002676,13-03-2026,GB015,Eleanor Scott,Private,Execution Only,Sulaiman B,Berlin,XS23823,JP Morgan,North American,Equity,Foreign Equity,USD,VALID,35,98.73,3455.55,BUY
+T002705,13-03-2026,GB012,Lydia Carter,Retail,Advisory,Sagar T,Bavaria,XS23824,JP Morgan,North American,Mutual Fund,Equity Funds,USD,VALID,69,85.60,5906.40,BUY
+T003120,13-03-2026,GB006,William Robinson,Private,Advisory,Nibu X,Rheinland-Pfalz,XS23827,Meta,North American,Equity,Foreign Equity,USD,VALID,36,31.77,1143.72,BUY
+T003240,13-03-2026,GB018,Aiden Grant,Retail,Execution Only,Nibu X,Berlin,AE23820,FAB,Asia,Equity,Foreign Equity,AED,VALID,29,98.02,2842.58,BUY
+T003303,13-03-2026,GB012,Lydia Carter,Retail,Advisory,Sagar T,Bavaria,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,47,88.51,4159.97,BUY
+T003303,13-03-2026,GB012,Lydia Carter,Retail,Advisory,Sagar T,Bavaria,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,47,88.51,4159.97,BUY
+T003371,13-03-2026,GB006,William Robinson,Private,Advisory,Nibu X,Rheinland-Pfalz,SN23833,Sea (Garena),Asia,Bond,Long Term,SNG,VALID,35,47.85,1674.75,BUY
+T003791,13-03-2026,GB016,Rebecca Allen,Private,Advisory,Jithin M,Saxony,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,56,1.86,104.16,BUY
+T003816,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,87,88.51,7700.37,BUY
+T003816,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,XS23837,HP,North American,Mutual Fund,Fixed Income Funds,USD,VALID,87,88.51,7700.37,BUY
+T003857,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,12,1.86,22.32,SELL
+T003910,13-03-2026,GB020,Lenny Thomas,Wealth,Advisory,Jithin M,Bavaria,EG23830,Telecom Egypt,Africa,Mutual Fund,Fixed Income Funds,EGY,VALID,35,10.71,374.85,SELL
+T003955,13-03-2026,GB019,Alfred Watson,Private,Execution Only,Jithin M,Rheinland-Pfalz,XS23819,Tesla,North American,Mutual Fund,Equity Funds,USD,VALID,95,178.32,16940.40,SELL
+T004155,13-03-2026,GB001,Adele Cole,Wealth,Advisory,Jithin M,Bavaria,DE23822,Allianz,Europe,Equity,Local Equity,EUR,VALID,60,79.92,4795.20,BUY
+T004267,13-03-2026,GB017,Eleanor Mitchell,Retail,Execution Only,Jithin M,Berlin,XS23826,Google,North American,Equity,Foreign Equity,USD,VALID,92,40.35,3712.20,SELL
+T004286,13-03-2026,GB006,William Robinson,Private,Advisory,Nibu X,Rheinland-Pfalz,XS23824,JP Morgan,North American,Mutual Fund,Equity Funds,USD,VALID,99,85.60,8474.40,BUY
+T004353,13-03-2026,GB014,Max Kelley,Private,Advisory,Nibu X,Berlin,AE23820,FAB,Asia,Equity,Foreign Equity,AED,VALID,5,98.02,490.10,BUY
+T004412,13-03-2026,GB009,Michelle Armstrong,Private,Execution Only,Jithin M,Saxony,XS23819,Tesla,North American,Mutual Fund,Equity Funds,USD,VALID,60,178.32,10699.20,BUY
+T004418,13-03-2026,GB018,Aiden Grant,Retail,Execution Only,Nibu X,Berlin,IN23821,TATA,Asia,Bond,Short Term,INR,MISSING_PRICE,39,96.04,3745.56,SELL
+T004673,13-03-2026,GB014,Max Kelley,Private,Advisory,Nibu X,Berlin,AE23820,FAB,Asia,Equity,Foreign Equity,AED,VALID,69,98.02,6763.38,SELL
+T004833,13-03-2026,GB011,Reid Allen,Wealth,Execution Only,Sulaiman B,Rheinland-Pfalz,XS23827,Meta,North American,Equity,Foreign Equity,USD,VALID,98,31.77,3113.46,BUY
+T004841,13-03-2026,GB020,Lenny Thomas,Wealth,Advisory,Jithin M,Bavaria,IN23821,TATA,Asia,Bond,Short Term,INR,MISSING_PRICE,30,96.04,2881.20,BUY
+T004852,13-03-2026,GB012,Lydia Carter,Retail,Advisory,Sagar T,Bavaria,XS23832,IBM,North American,Bond,Medium Term,USD,VALID,49,36.12,1769.88,BUY
+T004878,13-03-2026,GB010,Michael Harrison,Private,Execution Only,Sagar T,Saxony,AU23829,Albemarle,Australia,Mutual Fund,Fixed Income Funds,AUD,MISSING_PRICE,29,1.86,53.94,SELL
+T004947,13-03-2026,GB015,Eleanor Scott,Private,Execution Only,Sulaiman B,Berlin,XS23831,Google,North American,Equity,Foreign Equity,USD,VALID,85,26.45,2248.25,BUY
+T004996,13-03-2026,GB003,Stuart Carroll,Wealth,Execution Only,Sulaiman B,Saxony,EG23830,Telecom Egypt,Africa,Mutual Fund,Fixed Income Funds,EGY,VALID,83,10.71,888.93,SELL
